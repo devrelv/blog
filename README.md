@@ -1,2 +1,2 @@
 # blog
-Image hosting
+Image hosting is fun
